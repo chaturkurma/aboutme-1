@@ -1,2 +1,2 @@
-# aboutme
-aboutme
+# Sammy Fields
+## CS Major at NWMSU
