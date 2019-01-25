@@ -17,7 +17,7 @@ This repository will be used to display my class projects in order for potential
 Here are a few resources which can aid in the learning of web development:
 - [Treehouse.com](https://teamtreehouse.com/)
 - [Lynda.com](https://www.lynda.com/)
-- [Udemy](https://www.udemy.com/courses/development/)
+- [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Contributors
 - Sammy Fields bachelor of Computer Science (In Progress)
