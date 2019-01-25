@@ -1,7 +1,7 @@
 # aboutme
 ## Repository Links
-- [Source](https://www.wikipedia.org/)
-- [My Page]()
+- [Source]()
+- [My Github Page](https://github.com/samfields)
 
 ## About
 This repository will be used for any future files I create regarding myself and new technologies I learn.
@@ -17,7 +17,6 @@ Here are a few sources which can aid in the learning of web development:
 - [Udemy](https://www.udemy.com/courses/development/)
 
 ## Contributors
-- Sammy Fields
-- CS Major
+- Sammy Fields bachelor of Computer Science (In Progress)
 - My favorite animal is a cheetah:
 ![Hosted Image](https://upload.wikimedia.org/wikipedia/commons/e/ec/Cheetah_4_%2816309649223%29.jpg)
