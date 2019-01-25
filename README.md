@@ -19,5 +19,5 @@ Here are a few sources which can aid in the learning of web development:
 ## Contributors
 - Sammy Fields
 - CS Major
-My favorite animal is a cheetah:
+- My favorite animal is a cheetah:
 ![Hosted Image](https://upload.wikimedia.org/wikipedia/commons/e/ec/Cheetah_4_%2816309649223%29.jpg)
